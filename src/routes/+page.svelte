@@ -14,7 +14,7 @@
 
 <div class="contents">
     <div class="conc shadow-md rounded flex flex-1 min-h-screen justify-center items-center">
-        <h1 class="text-7xl">Nagaraj GS</h1>
+        <h1 class="text-8xl text-white">Nagaraj GS</h1>
     </div>
     <Info />
 </div>

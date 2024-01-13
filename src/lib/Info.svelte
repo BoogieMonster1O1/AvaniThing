@@ -17,7 +17,7 @@
 
 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 p-4" id="info">
     <!-- Professor Information -->
-    <div class="bg-gray-800 text-white rounded p-4">
+    <div class="dark:bg-gray-800 bg-gray-400 rounded p-4">
       <h2 class="text-2xl font-semibold mb-2">Professor and Associate Dean</h2>
       <p><span class="font-semibold">Qualification:</span> PhD</p>
       <p><span class="font-semibold">Experience:</span> 30 years in teaching, 1 year in industry, 19+ years in research</p>
@@ -27,7 +27,7 @@
     </div>
   
     <!-- Project Guided -->
-    <div class="bg-gray-800 text-white rounded p-4">
+    <div class="dark:bg-gray-800 bg-gray-400 rounded p-4">
       <h2 class="text-2xl font-semibold mb-2">Project Guided</h2>
       <p><span class="font-semibold">UG Projects Guided:</span> 50+</p>
       <p><span class="font-semibold">PG Projects Guided:</span> 50+</p>
@@ -35,7 +35,7 @@
     </div>
   
     <!-- Publications -->
-    <div class="bg-gray-800 text-white rounded p-4">
+    <div class="dark:bg-gray-800 bg-gray-400 rounded p-4">
       <h2 class="text-2xl font-semibold mb-2">Publications</h2>
       <p><span class="font-semibold">National Journals:</span> 01</p>
       <p><span class="font-semibold">National Conferences:</span> 17</p>
