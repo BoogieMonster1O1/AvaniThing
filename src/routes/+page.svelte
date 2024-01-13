@@ -1,2 +1,20 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+
+    import Info from "$lib/Info.svelte";
+
+</script>
+<style>
+    .conc {
+        background-image: url('https://i.imgur.com/phW69xM.png');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+</style>
+
+<div class="contents">
+    <div class="conc shadow-md rounded flex flex-1 min-h-screen justify-center items-center">
+        <h1 class="text-7xl">Nagaraj GS</h1>
+    </div>
+    <Info />
+</div>
